@@ -9,6 +9,7 @@ node.js -> koa.js  koa.js学习demo，包含登录、鉴权、jwt、路由、错
 - Koa：2.x
 - MySQL：推荐稳定的 5.7 版本及以上
 - TypeORM：0.3.x
+- argon2加密
 
 # 学习目标
 # 学完这篇教程，你将学会：
